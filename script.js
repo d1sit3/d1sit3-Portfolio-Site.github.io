@@ -58,7 +58,7 @@ const link2 = document.querySelector('#link2');
 const link3 = document.querySelector('#link3');
 const col__sub = document.querySelector('#col__sub');
 
-// scroillToElement
+// scrollToElement
 link1.addEventListener('click', () => {
     scrollToElement('.body__deal');
 });
